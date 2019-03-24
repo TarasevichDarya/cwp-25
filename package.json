@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.4",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "http2": "^3.3.7",
+    "mime": "^2.4.0",
+    "path": "^0.12.7",
+    "shrink-ray": "^0.1.3"
+  }
+}
